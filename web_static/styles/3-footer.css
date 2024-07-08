@@ -1,0 +1,16 @@
+/*
+ * ======================================
+ *
+ * Footer
+ *
+ * ======================================
+ */
+footer {
+	background-color: #FFF;
+	bottom: 0;
+	border-top: 1px solid #CCCCCC;
+	text-align: center;
+	line-height: 60px;
+	height: 60px;
+	width: 100%;
+}
